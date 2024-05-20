@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Godzilla vs Kong New Empire",
+            "iscore": 6.3,
+            "rating": "PG-13",
+            "runtime": 155,
+            "released": [2024, 3, 24],
+            "country": "USA",
+            "posters": ["img/godzillavkongempire.jpg"],
+            "imdb": "https://www.imdb.com/title/tt14539740/",
+            "website": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7cdb258a-f819-491c-b0c6-a7a0b3678a49?autoplay=0&ref_=atv_cf_strg_wb",
+            "likes": 482,
+            "dislikes": 54,
+            "posterindex": 0
+      },
+      {
+            "title": "Pixels",
+            "iscore": 5.6,
+            "rating": "PG-13",
+            "runtime": 105,
+            "released": [2015, 7, 24],
+            "country": "USA",
+            "posters": ["img/pixelsmovie1.jpg"],
+            "imdb": "https://www.imdb.com/title/tt2120120/?ref_=fn_al_tt_1",
+            "website": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70a9f74f-9ff6-7f19-949b-64a1d8d293e8?autoplay=0&ref_=atv_cf_strg_wb",
+            "likes": 642,
+            "dislikes": 234,
+            "posterindex": 0
+      },
+      {
+            "title": "Avengers End Game",
+            "iscore": 8.4,
+            "rating": "PG-13",
+            "runtime": 181,
+            "released": [2019, 4, 26],
+            "country": "USA",
+            "posters": ["img/avengersendgame.jpg"],
+            "imdb": "https://www.imdb.com/title/tt4154796/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_avengers%2520end",
+            "website": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8b52476-383e-ee5b-230a-7f2fd14935a3?autoplay=0&ref_=atv_cf_strg_wb",
+            "likes": 1032,
+            "dislikes": 351,
+            "posterindex": 0
       }
 ]
